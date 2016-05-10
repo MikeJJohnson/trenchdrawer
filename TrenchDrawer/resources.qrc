@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/TrenchDrawer" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
